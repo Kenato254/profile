@@ -11,13 +11,9 @@
 </p>
 -->
 
-<a href="https://komarev.com/ghpvc/?username=kennedygitonga">
-  <img align="right" src="https://komarev.com/ghpvc/?username=kennedygitonga&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Hey there, I'm
+  <samp>Hey there, I'm
     <b><a target="_blank" href="https://linkedin.com/in/kennedy-gitonga-8b800756">Kennedy Gitonga</a></b>
   </samp>
 </h3>
@@ -60,25 +56,25 @@
 
 ## Skills
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) Django
-- ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=ethereum&logoColor=white) Web3
-- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) Blockchain
-- ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-1A2226?style=for-the-badge&logo=api&logoColor=white) RESTful APIs
-- ![Concurrency](https://img.shields.io/badge/Concurrency-6B76E8?style=for-the-badge&logo=concurrency&logoColor=white) Concurrency
-- ![Async IO](https://img.shields.io/badge/Async%20IO-40BAC8?style=for-the-badge&logo=python&logoColor=white) Async IO
-- ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white) SQL
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
-- ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) Celery
-- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) Haskell
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) Rust
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+- ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=ethereum&logoColor=white) 
+- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) 
+- ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-1A2226?style=for-the-badge&logo=api&logoColor=white)  
+- ![Concurrency](https://img.shields.io/badge/Concurrency-6B76E8?style=for-the-badge&logo=concurrency&logoColor=white) 
+- ![Async IO](https://img.shields.io/badge/Async%20IO-40BAC8?style=for-the-badge&logo=python&logoColor=white)  
+- ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white) 
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+- ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
+- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 
 <br/>
 
 ## Experience
 
-- Blockchain Developer @ Africa Blockchain Center
-- Freelancer Python Backend Developer @ Freelancer.com
+- Blockchain Backend Developer @ Africa Blockchain Center
+- Python Backend Developer @ Freelancer.com
 - Software Developer @ Tribus - TSG Centum Investments
 
 <br/>
@@ -90,4 +86,4 @@
 <br/>
 
 ## Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out via [email](mailto:kendygitonga@gmail.com)!
+I'm always open to new opportunities and collaborations. Feel free to reach out via [email](mailto:kenedygitonga@gmail.com)!
