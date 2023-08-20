@@ -56,18 +56,18 @@
 
 ## Skills
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-- ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=ethereum&logoColor=white) 
-- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) 
-- ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-1A2226?style=for-the-badge&logo=api&logoColor=white)  
-- ![Concurrency](https://img.shields.io/badge/Concurrency-6B76E8?style=for-the-badge&logo=concurrency&logoColor=white) 
-- ![Async IO](https://img.shields.io/badge/Async%20IO-40BAC8?style=for-the-badge&logo=python&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white) 
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-- ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
-- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white) 
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-1A2226?style=for-the-badge&logo=api&logoColor=white) 
+![Concurrency](https://img.shields.io/badge/Concurrency-6B76E8?style=for-the-badge&logo=concurrency&logoColor=white)
+![Async IO](https://img.shields.io/badge/Async%20IO-40BAC8?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 
 <br/>
 
